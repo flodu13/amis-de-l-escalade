@@ -5,7 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Les amis de l'escalade</name>
   
-  <dependencies>
+  <properties>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+</properties>
+
+<dependencies>
   
   </dependencies>
 </project>
